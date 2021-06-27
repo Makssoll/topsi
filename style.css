@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to top, rgb(185, 40, 112), purple, hotpink);
+}
+
+.link-nav {
+    color: rgb(231, 15, 195);
+}
+
+.link-header {
+    color: rgb(231, 15, 195);
+}
+
+.social {
+    width: 50px;
+    height: 50px;
+}
+
+
+img:hover {
+    transform: scale(1.2);
+    transition: 1.4s linear;
+}
